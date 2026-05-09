@@ -1,0 +1,27 @@
+# Git
+.git/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+.env
+
+# Backend
+backend/sql_app.db
+backend/app/*.db
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
